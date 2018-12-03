@@ -1,4 +1,4 @@
-package pl.idzikdevs.DrivingLicenseProject;
+package pl.idzikdevs.DrivingLicenseProjectIdzik;
 
 public class Food {
     String name;
